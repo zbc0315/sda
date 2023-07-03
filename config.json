@@ -1,0 +1,30 @@
+{
+  "basic_abs": {
+    "origin_papers_dn": "wos",
+    "papers_fn": "papers.tsv",
+    "texts_fn": "texts.tsv",
+    "texts_tagged_fn": "texts_tagged.tsv",
+    "tag_token_pairs_fn": "tag_token_pairs.tsv",
+    "words_vec_fn": "words_vec",
+    "keywords_synonyms_fn": "keywords_synonyms.tsv",
+    "min_distance": 10,
+    "units_fn": "units.tsv",
+    "filter_units_fn": "filter_units.tsv",
+    "known_action_fn": "known_action.tsv",
+    "unknown_verbs_fn": "unknown_verbs.tsv",
+    "unknown_verb_stem_count_fn": "unknown_verb_stem_count.tsv",
+    "unknown_verb_score_fn": "unknown_verb_score.tsv",
+    "action_fn": "action.tsv",
+    "mols_fn": "mols.tsv",
+    "unique_mols_fn": "unique_mols.tsv",
+    "filter_mols_fn": "filter_mols.tsv",
+    "elements_count_fn": "elements_count.tsv",
+    "elements_link_count_fn": "elements_link_count.tsv"
+  },
+  "proj_oer_config:basic_abs": {
+    "name": "OER",
+    "root": "/.../OER/",
+    "target_mol_type": "ALLOY",
+    "keywords": "oer"
+  }
+}

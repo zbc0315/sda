@@ -1,0 +1,7 @@
+nltk
+chemdataextractor2
+matplotlib
+pandas
+rdkit
+cuspy
+pdfminer3k
